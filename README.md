@@ -98,7 +98,7 @@ The dataset includes text messages and their respective labels, used for trainin
 ## ⚡ How to Run the Project
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/spam-classification.git
+   git clone https:https://github.com/Prabhunandan016/spammail.git
    cd spam-classification
    ```
 
